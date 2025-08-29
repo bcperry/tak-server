@@ -194,6 +194,22 @@ The user interface is available at the below address and on all other NICs. Chec
 
 `https://localhost:8443`
 
+### WebTAK Interface
+
+The web-based TAK client (WebTAK) is available at:
+
+`https://localhost:8443/webtak/index.html`
+
+This provides a browser-based TAK client interface for situational awareness and operations.
+
+### API Documentation
+
+The TAK Server REST API specification can be found at:
+
+`https://localhost:8443/swagger-ui/index.html#`
+
+This provides interactive documentation for all available API endpoints and their usage.
+
 ### Re-Starting Server After Shutdown
 
 Make sure you are in the main `tak-server` directory and append the `-d` flag to run the process in the background.
